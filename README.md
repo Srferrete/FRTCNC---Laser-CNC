@@ -6,6 +6,6 @@ Estamos creando un Laser cnc, que pueda ser construido a mediante piezas impresa
 Es un proyecto que ya hicimos el pasado, pero esta vez le hemos dado una vuelta para que quede lo más vistoso posible además de hacer una estructura un poco más fuerte.
 
 La base de la maquina es basante sencilla, vas a usar Perfiles V-slot, perfilería de aluminio y materiales basicos.
-En cuanto a electronica usaremos un Mks TMC con driver Drv8825 y como FirmWare nos basaremos en GRBL.
+En cuanto a electronica usaremos un Mks DLC con driver Drv8825 y como FirmWare nos basaremos en GRBL.
 
 Este repositorio está en construción todavía, tened paciencia que se Irá subiendo todo. 
