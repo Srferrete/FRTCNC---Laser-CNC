@@ -15,5 +15,4 @@ FIRMWARE
 Para instalar el firmware en la MKS DLC, necesitais instalar el IDE de arduino que podeis encontrar aqui https://www.arduino.cc/
 Una vez instalado, copiar la carpeta grbl en en C:\Users\VUESTRO_USUARIO\Documents\Arduino\libraries. De esta manera os funcionará como lo hacemos en el video.
 
-
-Este repositorio está en construción todavía, tened paciencia que se Irá subiendo todo. 
+ 
